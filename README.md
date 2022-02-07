@@ -5,11 +5,11 @@
  
  > **About me?**
  
-- 👀 Interested in studying and working on daily interaction technology.
-- 🌱 I’m currently learning Web dev.
+- 👀 Interested to explore about daily interaction technology.
+- 🌱 I’m currently learning MERN Stack.
 - 💞️ And now a days working on a tech blog called [```vhald's tech blog```](https://vhald.hashnode.dev/).
 - 🧾 My some other blogs are [```[DEV Community Profile]```](https://dev.to/xoxics)
-- 📫 Its not hard to find me. just [search](https://linkedin.com/in/vhald) my name and i'll summon before you.</p>
+- 📫 Its not hard to find me. just [search](https://linkedin.com/in/vhald) my name and i'll summon before you 😬.</p>
 
 Want to know more about me? [Check out my portfolio.](https://portfolio-vhaldia.netlify.app/)
 
