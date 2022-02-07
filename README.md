@@ -5,7 +5,7 @@
  
  > **About me?**
  
-- 👀 Interested in studying and working on daily interactive technology.
+- 👀 Interested in studying and working on daily interaction technology.
 - 🌱 I’m currently learning Web dev.
 - 💞️ And now a days working on a tech blog called [```vhald's tech blog```](https://vhald.hashnode.dev/).
 - 🧾 My some other blogs are [```[DEV Community Profile]```](https://dev.to/xoxics)
