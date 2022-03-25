@@ -40,7 +40,4 @@ Want to know more about me? [Check out my portfolio.](https://portfolio-vhaldia.
 <a href="https://github.com/vhald/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhald&hide=Shell,Ruby&layout=compact&theme=onedark" /></a> 
 <a href="https://github.com/vhald/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=vhald&show_icons=true&theme=onedark" /></a>
  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vhald)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vhald)  
