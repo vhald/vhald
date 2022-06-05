@@ -1,6 +1,6 @@
+<img src="https://i.pinimg.com/originals/5a/fb/90/5afb902abaca0ea0ad194bd2ca19e628.gif" height="250px">
 
-
-## Greetings <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="5px"> I am Vaibhav Haldia
+## Greetings <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> I am Vaibhav Haldia 
 [![Gmail Badge](https://img.shields.io/badge/-vaibhavgsh@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vaibhavgsh@gmail.com)](mailto:vaibhavgsh@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-vhald-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vhald/)](https://www.linkedin.com/in/vhald/) [![Github Badge](https://img.shields.io/badge/-xoxics-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xoxics/)](https://www.github.com/xoxics/) [![Twitter Badge](https://img.shields.io/badge/-v_hald-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/v_hald/)](https://www.twitter.com/v_hald/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://portfolio-vaibhavh.netlify.app//)](https://portfolio-vaibhavh.netlify.app//)<p align='left'>
  
