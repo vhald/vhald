@@ -1,4 +1,3 @@
-<img src="https://i.pinimg.com/originals/5a/fb/90/5afb902abaca0ea0ad194bd2ca19e628.gif" height="250px">
 
 ## Greetings <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> I am Vaibhav Haldia 
 [![Gmail Badge](https://img.shields.io/badge/-vaibhavgsh@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vaibhavgsh@gmail.com)](mailto:vaibhavgsh@gmail.com) 
@@ -43,3 +42,5 @@ Want to know more about me? [Check out my portfolio.](https://portfolio-vhaldia.
 <a href="https://github.com/vhald/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=vhald&show_icons=true&theme=onedark" /></a>
  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vhald)  
+
+<img src="https://i.pinimg.com/originals/5a/fb/90/5afb902abaca0ea0ad194bd2ca19e628.gif" height="250px">
