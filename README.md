@@ -6,8 +6,8 @@
  
  > **About me?**
  
-- 👀 Interested to explore about daily interaction technology.
-- 🌱 I’m currently learning MERN Stack.
+- 👀 Interested in exploring daily interaction technologies.
+- 🌱 Currently, I am learning MERN Stack.
 - 💞️ And now a days working on a tech blog called [```vhald's tech blog```](https://vhald.hashnode.dev/).
 - 🧾 My some other blogs are [```[DEV Community Profile]```](https://dev.to/xoxics)
 - 📫 Its not hard to find me. just [search](https://linkedin.com/in/vhald) my name and i'll summon before you 😬.</p>
@@ -31,6 +31,7 @@ Want to know more about me? [Check out my portfolio.](https://portfolio-vhaldia.
 
 ## 📕 Latest Blog Posts
 
+- [API - Behind The Scenes](https://vhald.hashnode.dev/what-is-an-api-how-the-internet-works-behind-the-scenes)
 - [Proxy Servers](https://vhald.hashnode.dev/proxy-servers)
 - [History of Web & Browser](https://vhald.hashnode.dev/history-of-web-and-browser)
 - [What are the alternatives of GitHub](https://vhald.hashnode.dev/what-are-the-alternatives-of-github)
